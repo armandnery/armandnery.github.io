@@ -1,0 +1,29 @@
+h1 {
+  border: 2px solid rgb(0, 247, 255);
+  background-color: aliceblue;
+  color: black;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 300%;
+}
+
+body {
+  background-color: rgb(37, 42, 114);
+  padding: 20px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 100%;
+}
+
+div {
+  background-color: aliceblue;
+}
+
+h2 {
+  border: 2px solid rgb(0, 247, 255);
+  display: flex;
+  justify-content: space-between;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 150%;
+}
